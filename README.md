@@ -27,7 +27,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Balaganesh R."
+        self.name = "Balaganesh.R"
         self.role = "AI Engineering Student"
         self.education = "B.Tech Artificial Intelligence"
         self.university = "SRM University"
@@ -195,7 +195,7 @@ An interactive online assessment platform designed to manage quizzes, questions,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5425A8,100:050816&height=120&section=footer" width="100%" />
 
-**© BALAGANESH R. | ENGINEERING THE FUTURE WITH AI**
+**© BALAGANESH.R | ENGINEERING THE FUTURE WITH AI**
 
 <sub>Thanks for visiting my digital universe. Let's build something extraordinary.</sub>
 
