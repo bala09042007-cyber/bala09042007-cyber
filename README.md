@@ -1,4 +1,4 @@
-# 🌌 BALAGANESH R.
+# 🌌 BALAGANESH. R
 <!-- Futuristic AI Engineer Profile -->
 
 <div align="center">
