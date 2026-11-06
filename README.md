@@ -1,99 +1,181 @@
-<div align="center">
-<img src="assets/github-banner.png" alt="Balaganesh. R — AI Engineer | Full Stack Developer | Data Analyst" width="100%" />
-<br/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=42DFFF&center=true&vCenter=true&width=700&lines=AI+Undergraduate+%40+SRM+University;Building+intelligent+solutions;Full+Stack+Developer+in+the+making;Turning+data+into+insights)
-<br/>
-<a href="https://github.com/bala09042007-cyber"><img src="https://img.shields.io/badge/GitHub-bala09042007--cyber-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br/><br/>
-`BUILD • LEARN • INNOVATE`
-Building intelligence. Creating impact.
-</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07162E,50:087ECA,100:7138C8&height=230&section=header&text=Balaganesh%20R&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=16" width="100%" />
+</p>
+
+<h1 align="center">Hey, I'm Balaganesh R 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=42DFFF&center=true&vCenter=true&width=700&lines=AI+Undergraduate+%40+SRM+University;Building+Intelligent+Solutions;Full+Stack+Developer+in+Progress;Turning+Data+Into+Insights" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bala09042007-cyber">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:bala09042007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-087ECA?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bala-ganesh-83642a373">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>BUILD • LEARN • INNOVATE</b><br/>
+  <i>Building intelligence. Creating impact.</i>
+</p>
+
 ---
-◈ About Me
-Hey there! I'm Balaganesh. R, an Artificial Intelligence undergraduate at SRM University (2024–2028).
-I'm passionate about building useful technology at the intersection of Artificial Intelligence, Full Stack Development, and Data Analytics. I enjoy taking an idea from a rough concept to a working solution, learning the tools behind it, and improving the experience along the way.
-🎓 Pursuing B.Tech in Artificial Intelligence.
-🧠 Exploring Machine Learning, Deep Learning, and Data Science.
-💻 Building practical projects with Python, web technologies, and databases.
-🚀 Interested in opportunities to learn, collaborate, and solve meaningful problems.
+
+## ◈ ABOUT ME
+
+I'm **Balaganesh R**, an Artificial Intelligence undergraduate at **SRM University (2024–2028)**.
+
+I enjoy exploring the intersection of Artificial Intelligence, software development and data analytics. My goal is to transform ideas into intelligent, practical and impactful technology.
+
+- 🎓 B.Tech Artificial Intelligence
+- 🧠 Exploring Machine Learning and Deep Learning
+- 💻 Developing applications using Python and Full Stack technologies
+- 📊 Interested in Data Analytics and intelligent systems
+- 🚀 Always learning, experimenting and building
+
 ---
-⌘ Tech Stack
-<div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
-AI / Data / Frameworks
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,react,nodejs" />
-Databases & Developer Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</div>
+
+## ⌘ TECHNOLOGY ARSENAL
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+</p>
+
+**AI / ML / Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,react,nodejs"/>
+</p>
+
+**Database & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
+</p>
+
 ---
-◈ Featured Projects
+
+## ◈ FEATURED PROJECTS
+
 <table>
 <tr>
 <td width="50%" valign="top">
-🩸 LifeLink
-Organ & Blood Donation Platform
-A hospital-centred platform concept for donor and recipient workflows, privacy-aware donor visibility, consent, and matching.
-Built with: Node.js · Express · MySQL · HTML · CSS · JavaScript
-Live Demo · GitHub Profile
+
+### 🩸 LifeLink
+
+**Organ & Blood Donation Platform**
+
+A hospital-centred platform for donor management, privacy-aware donor visibility, consent and donor-recipient workflows.
+
+**Tech:** Node.js, Express, MySQL, HTML, CSS, JavaScript
+
+[Live Project ↗](https://lifelink-26.netlify.app/)
+
 </td>
 <td width="50%" valign="top">
-🧩 Quizify
-Online Quiz Platform
-A database-backed online MCQ platform developed to support quiz participation and management.
-Built with: PHP · MySQL · HTML · CSS · JavaScript
-Explore Repositories
+
+### 🧩 Quizify
+
+**Online Quiz Platform**
+
+A database-backed MCQ application designed to support online quizzes and management.
+
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+
+[View Projects ↗](https://github.com/bala09042007-cyber?tab=repositories)
+
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-🎓 AI College Admission Guidance
-AI-Based Guidance System
-A project concept to help students explore suitable colleges and courses using student profiles and admission-related information.
-Built with: Python · Flask · MySQL · Machine Learning
-Explore Repositories
+
+### 🎓 AI Admission Guidance
+
+**AI-Based College Admission System**
+
+A guidance system exploring student profiles, college recommendations and admission-related information.
+
+**Tech:** Python, Flask, MySQL, Machine Learning
+
+[View Projects ↗](https://github.com/bala09042007-cyber?tab=repositories)
+
 </td>
 <td width="50%" valign="top">
-🌾 Rice Leaf Disease Classification
-Deep Learning / Computer Vision
-An academic experimentation project exploring rice leaf disease classification with a ResNet18 and spiking-neural-network hybrid approach.
-Explored with: Python · PyTorch · snnTorch · Google Colab
-Explore Repositories
+
+### 🌾 Rice Disease Classification
+
+**Deep Learning / Computer Vision**
+
+An academic project exploring rice leaf disease classification using a ResNet18 and SNN hybrid approach.
+
+**Tech:** Python, PyTorch, snnTorch
+
+[View Projects ↗](https://github.com/bala09042007-cyber?tab=repositories)
+
 </td>
 </tr>
 </table>
-> **Project links:** Replace the repository-profile links above with the direct URLs of each project repository when they are published.
+
 ---
-⟡ Learning & Experience
-Area	Experience
-Education	B.Tech Artificial Intelligence — SRM University (2024–2028)
-Industry exposure	In-Plant Training — Heavy Vehicles Factory (HVF)
-Development	Full Stack Development learning experience — NoviTech
-Project work	AI-Based College Admission Guidance System — Softrate
+
+## ⟡ EXPERIENCE & LEARNING
+
+| Experience | Details |
+|---|---|
+| Education | B.Tech AI – SRM University (2024–2028) |
+| In-Plant Training | Heavy Vehicles Factory (HVF) |
+| Development | NoviTech – Full Stack Development |
+| Project Experience | Softrate – AI College Admission Guidance |
+
 ---
-⌬ GitHub Analytics
-<div align="center">
-<a href="https://github.com/bala09042007-cyber">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bala09042007-cyber&show_icons=true&hide_border=true&bg_color=0D1117&title_color=42DFFF&icon_color=9B7CFF&text_color=DCE7FF&rank_icon=github" />
-</a>
-<a href="https://github.com/bala09042007-cyber">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala09042007-cyber&layout=compact&hide_border=true&bg_color=0D1117&title_color=42DFFF&text_color=DCE7FF" />
-</a>
-<br/>
-<img src="https://streak-stats.demolab.com?user=bala09042007-cyber&theme=transparent&hide_border=true&ring=42DFFF&fire=9B7CFF&currStreakLabel=42DFFF&sideLabels=DCE7FF&dates=8B9BB8" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bala09042007-cyber&bg_color=0D1117&color=DCE7FF&line=42DFFF&point=9B7CFF&area=true&hide_border=true" width="98%" />
-</div>
+
+## ⌬ GITHUB STATISTICS
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bala09042007-cyber&show_icons=true&hide_border=true&bg_color=0D1117&title_color=42DFFF&icon_color=9B7CFF&text_color=DCE7FF&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala09042007-cyber&layout=compact&hide_border=true&bg_color=0D1117&title_color=42DFFF&text_color=DCE7FF"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bala09042007-cyber&theme=transparent&hide_border=true&ring=42DFFF&fire=9B7CFF&currStreakLabel=42DFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bala09042007-cyber&bg_color=0D1117&color=DCE7FF&line=42DFFF&point=9B7CFF&area=true&hide_border=true" width="98%"/>
+</p>
+
 ---
-☄️ Let's Connect
-<div align="center">
-I'm always happy to connect with developers, learn from new perspectives, and explore interesting ideas.
-<a href="https://github.com/bala09042007-cyber"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github" /></a>
-<a href="mailto:bala09042007@gmail.com.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="LinkedIn:https://www.linkedin.com/in/bala-ganesh-83642a373"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br/><br/>
-`DREAM BIG. BUILD BOLD. KEEP EVOLVING.`
-<sub>Thanks for visiting my corner of GitHub · Crafted with curiosity by Balaganesh</sub>
-</div>
+
+
+## ☄️ CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/bala09042007-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:bala09042007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/bala-ganesh-83642a373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<h3 align="center">DREAM BIG. BUILD BOLD. KEEP EVOLVING.</h3>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
+
