@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:102A56,70:5425A8,100:00D9FF&height=230&section=header&text=BALAGANESH%20R.&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20DATA%20ANALYTICS&descSize=13&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:102A56,70:5425A8,100:00D9FF&height=230&section=header&text=BALAGANESH%20.R&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20DATA%20ANALYTICS&descSize=13&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/bala09042007-cyber">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;AI+Engineering+Student+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%92%A1;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
