@@ -55,11 +55,11 @@ I am an enthusiastic AI Engineering undergraduate passionate about building inte
 
 I enjoy exploring the intersection of Artificial Intelligence, software engineering, and data science — transforming innovative ideas into meaningful applications.
 
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💻 Building full-stack web applications.
-- 📊 Interested in data analytics and intelligent automation.
-- 🧠 Learning through hands-on projects and experimentation.
-- 🚀 Constantly exploring emerging technologies.
+-  Exploring Artificial Intelligence and Machine Learning.
+-  Building full-stack web applications.
+-  Interested in data analytics and intelligent automation.
+-  Learning through hands-on projects and experimentation.
+-  Constantly exploring emerging technologies.
 
 ---
 
